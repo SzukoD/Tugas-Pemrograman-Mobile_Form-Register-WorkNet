@@ -107,6 +107,8 @@ Screenshot yang dilampirkan pada laporan:
 
 ---
 
+### Link Video Demo Aplikasi
+https://youtube.com/shorts/ti4Nov3GrMY?feature=share 
 
 ### Link Repository GitHub
 https://github.com/SzukoD/Tugas-Pemrograman-Mobile_Form-Register-WorkNet.git
