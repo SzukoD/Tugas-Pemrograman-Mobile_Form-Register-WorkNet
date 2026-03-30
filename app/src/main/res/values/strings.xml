@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorkNetRegister</string>
+
+    <string name="terms_text">
+        Dengan mengklik Lanjutkan, Anda menyetujui
+        &lt;font color="#0A66C2"&gt;Perjanjian Pengguna&lt;/font&gt;,
+        &lt;font color="#0A66C2"&gt;Kebijakan Privasi&lt;/font&gt;, dan
+        &lt;font color="#0A66C2"&gt;Kebijakan Cookie&lt;/font&gt; WorkNet.
+    </string>
+
+</resources>
